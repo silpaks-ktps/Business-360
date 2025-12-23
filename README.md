@@ -1,2 +1,2 @@
-# excel-project
-Excel-based data analytics project
+# powerbi-project
+Power BI-based data analytics project
