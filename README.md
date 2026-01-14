@@ -1,2 +1,2 @@
 # powerbi-project
-Power BI-based data analytics project
+Power BI-based Business analytics project
